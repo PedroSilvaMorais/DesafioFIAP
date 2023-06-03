@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FIAP.WebApp
+build_property.RootNamespace = FIAP.WebApp
+build_property.ProjectDir = C:\Estudos\Labs\Desafios\DesafioFIAP\src\FIAP.WebApp\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Estudos\Labs\Desafios\DesafioFIAP\src\FIAP.WebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Estudos/Labs/Desafios/DesafioFIAP/src/FIAP.WebApp/Views/AlunoViewModels/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9WaWV3TW9kZWxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Estudos/Labs/Desafios/DesafioFIAP/src/FIAP.WebApp/Views/AlunoViewModels/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9WaWV3TW9kZWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Estudos/Labs/Desafios/DesafioFIAP/src/FIAP.WebApp/Views/AlunoViewModels/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9WaWV3TW9kZWxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Estudos/Labs/Desafios/DesafioFIAP/src/FIAP.WebApp/Views/AlunoViewModels/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9WaWV3TW9kZWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Estudos/Labs/Desafios/DesafioFIAP/src/FIAP.WebApp/Views/AlunoViewModels/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9WaWV3TW9kZWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Estudos/Labs/Desafios/DesafioFIAP/src/FIAP.WebApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Estudos/Labs/Desafios/DesafioFIAP/src/FIAP.WebApp/Views/Relacao/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsYWNhb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Estudos/Labs/Desafios/DesafioFIAP/src/FIAP.WebApp/Views/Relacao/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsYWNhb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Estudos/Labs/Desafios/DesafioFIAP/src/FIAP.WebApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Estudos/Labs/Desafios/DesafioFIAP/src/FIAP.WebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Estudos/Labs/Desafios/DesafioFIAP/src/FIAP.WebApp/Views/Turma/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybWFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Estudos/Labs/Desafios/DesafioFIAP/src/FIAP.WebApp/Views/Turma/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybWFcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Estudos/Labs/Desafios/DesafioFIAP/src/FIAP.WebApp/Views/Turma/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybWFcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Estudos/Labs/Desafios/DesafioFIAP/src/FIAP.WebApp/Views/Turma/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybWFcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Estudos/Labs/Desafios/DesafioFIAP/src/FIAP.WebApp/Views/Turma/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybWFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Estudos/Labs/Desafios/DesafioFIAP/src/FIAP.WebApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Estudos/Labs/Desafios/DesafioFIAP/src/FIAP.WebApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Estudos/Labs/Desafios/DesafioFIAP/src/FIAP.WebApp/Views/Shared/Components/Summary/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU3VtbWFyeVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-vj7ghdu8z3
+
+[C:/Estudos/Labs/Desafios/DesafioFIAP/src/FIAP.WebApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-stqc425qy4

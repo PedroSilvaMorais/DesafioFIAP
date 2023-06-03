@@ -1,0 +1,48 @@
+﻿@model IEnumerable<FIAP.WebApp.Models.RelacaoAlunosViewModel>
+
+@{
+    ViewData["Title"] = "Detalhes";
+}
+
+<h1>Detalhes de Relação</h1>
+
+<div class="row">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Nome
+                </th>
+                <th>
+                    Usuário
+                </th>
+                <th>
+                    Ativo ?
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Nome)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Usuario)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.IsAtivo)
+                    </td>
+                    <td>
+                        <a asp-action="Desativar" asp-route-id="@item.Id">Desativar</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<div>
+    <a asp-action="Index">Voltar para a lista</a>
+</div>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ptUiR8TkilOWbxfvfoiquA6d36fVuvu6OK7ZhrH6XVs=",
+  "Source": "FIAP.Api",
+  "BasePath": "_content/FIAP.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

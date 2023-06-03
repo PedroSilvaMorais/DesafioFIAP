@@ -1,0 +1,55 @@
+﻿@model FIAP.WebApp.Models.AlunoTurmaViewModel
+
+@{
+    ViewData["Title"] = "Relação";
+}
+
+<h1>Relação</h1>
+
+<div class="row">
+    <form asp-action="Index">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="Aluno_Id" class="control-label"></label>
+            <select asp-for="Aluno_Id" class="form-control" asp-items="@(new SelectList(Model.ListaAlunos, "Id", "Nome"))"></select>
+        </div>
+        <div class="form-group">
+            <label asp-for="Turma_Id" class="control-label"></label>
+            <select asp-for="Turma_Id" class="form-control" asp-items="@(new SelectList(Model.ListaTurmas, "Id", "Nome"))"></select>
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Relacionar" class="btn btn-primary" />
+        </div>
+    </form>
+</div>
+<div class="row">
+    <table class="table">
+    <thead>
+        <tr>
+            <th>
+                Nome Turma
+            </th>
+            <th>
+                Qtd. de Alunos
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Turmas) {
+        <tr>
+            <td>
+                   @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Qtd)
+            </td>
+            <td>
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a>
+            </td>
+        </tr>
+}
+        </tbody>
+    </table>
+</div>
+
